@@ -9,7 +9,7 @@
 ## How to use the program
 
 - Left mouse button: draw start node, then end node, then barrier
-- Reight mouse button: remove node
+- Right mouse button: remove node
 - D key: visualize Dijkstra
 - A key: visualize AStar
 
