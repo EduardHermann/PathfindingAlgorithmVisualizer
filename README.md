@@ -8,6 +8,9 @@
 
 ## How to use the program
 
+- Left mouse button: draw start node, then end node, then barrier
+- Reight mouse button: remove node
+
 ## How to start the program
  
 - Install the "PVInstaller.exe" file
