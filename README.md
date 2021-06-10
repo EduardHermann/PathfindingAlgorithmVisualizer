@@ -15,7 +15,7 @@
 
 ## How to start the program
  
-- Install the "PVInstaller.exe" file
+- Install the program via the "PVInstaller.exe" file
 - Execute the Main.exe file in the folder which had been created by the installer
 - !!!Attention, you need windows installed on your pc in order to correctly start my program!!!
 
