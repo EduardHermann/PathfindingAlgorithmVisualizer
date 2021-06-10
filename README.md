@@ -10,6 +10,8 @@
 
 - Left mouse button: draw start node, then end node, then barrier
 - Reight mouse button: remove node
+- D key: visualize Dijkstra
+- A key: visualize AStar
 
 ## How to start the program
  
