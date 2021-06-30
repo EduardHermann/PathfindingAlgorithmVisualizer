@@ -23,3 +23,4 @@
 
 - Python
 - Pathfinding algorithms
+- Pygame
